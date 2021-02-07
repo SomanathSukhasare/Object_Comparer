@@ -1,2 +1,2 @@
-# Tavisca_Object_Comparer
+# Object_Comparer
 Compare two objects are similar
